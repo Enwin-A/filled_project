@@ -1,0 +1,13 @@
+{
+	"python.analysis.typeCheckingMode": "basic",
+	"editor.formatOnSave": true,
+	"ruff.enable": true,
+	"ruff.lint.enable": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit",
+		"source.organizeImports": "explicit"
+	},
+	"[python]": {
+		"editor.defaultFormatter": "charliermarsh.ruff"
+	}
+}
